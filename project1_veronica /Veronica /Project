@@ -1,0 +1,17 @@
+import matplotlib.pyplot as plt
+import pandas as pd
+import scipy.stats as st
+import numpy as np 
+from scipy.stats import linregress
+
+# File to Load 
+file_to_load1 = "lapi1119.csv"
+file_to_load2 = "us-counties.csv"
+
+# Read Purchasing File and store into Pandas data frame
+
+
+income_data_df = pd.read_csv(file_to_load1)
+county_data_df = pd.read_csv(file_to_load2)
+combined_df= pd.merge(county_data_df,income_data_df, on = "county")
+combined_df
