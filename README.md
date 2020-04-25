@@ -22,12 +22,12 @@ The objective of the project is to analyze the impact of below factors on the Co
 # Location of Programs and Data:
 
 
-# Hypothesis 2 - Covid 19 case count vs Social Distancing by Sai Reddy
+## Hypothesis 2 - Covid 19 case count vs Social Distancing by Sai Reddy
 
 - The programs that were used to extract and analyze the data are present in "Programs_SD" folder.
 - The input data for this programs are present in the folders "covid-data" and "Data-SD"
 
 
-# Hypothesis 3 - Covid 19 case count vs Testing by Preston Hinked
+## Hypothesis 3 - Covid 19 case count vs Testing by Preston Hinked
 
 - The program that was used for the analysis is present in the folder "Programs_PH"
