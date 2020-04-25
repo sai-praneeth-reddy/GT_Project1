@@ -28,6 +28,6 @@ The objective of the project is to analyze the impact of below factors on the Co
 - The input data for this programs are present in the folders "covid-data" and "Data-SD"
 
 
-## Hypothesis 3 - Covid 19 case count vs Testing by Preston Hinked
+## Hypothesis 3 - Covid 19 case count vs Testing by Preston Hinkel
 
 - The program that was used for the analysis is present in the folder "Programs_PH"
