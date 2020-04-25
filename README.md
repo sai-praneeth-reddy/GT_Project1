@@ -2,9 +2,9 @@
 
 Georgia Tech Bootcamp Project 1
 
-# Team: Tariq Attatwala, Preston Hinkel, Sai Reddy, Addison Sams, Veronica Valencia
+## Team: Tariq Attatwala, Preston Hinkel, Sai Reddy, Addison Sams, Veronica Valencia
 
-# Final Report: Corona-Project1 1.pdf
+## Final Report: Corona-Project1 1.pdf
 
 # Objective:
 
