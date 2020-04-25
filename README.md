@@ -1,10 +1,10 @@
 # GT_Project1
 
-Georgia Tech Bootcamp Project 1
+Georgia Tech Data Science & Analytics Bootcamp Project 1
 
 ## Team: Tariq Attatwala, Preston Hinkel, Sai Reddy, Addison Sams, Veronica Valencia
 
-## Final Report: Corona-Project1 1.pdf
+## Final Report: Corona-Project 1.pdf
 
 # Objective:
 
