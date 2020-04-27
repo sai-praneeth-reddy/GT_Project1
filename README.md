@@ -28,8 +28,8 @@ The objective of the project is to analyze the impact of below factors on the Co
 
 ## Hypothesis 1b - Average Household Income by Tariq Attarwala
 
-- The programs that were used to extract and analyze the data are present in "Programs_SD" folder.
-- The data that was used for the analysis is present in project1_veronica/Data_your_hypo
+- The programs that were used to extract and analyze the data are present in "Project1_Tq/programs" folder.
+- The data that was used for the analysis is present in project1_veronica/Data_your_hypo and Project1_Tq/data
 
 ## Hypothesis 2 - Covid 19 case count vs Social Distancing by Sai Reddy
 
