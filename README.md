@@ -21,6 +21,11 @@ The objective of the project is to analyze the impact of below factors on the Co
 
 # Location of Programs and Data:
 
+## Hypothesis 1 - Income per Capita by Veronica Valencia
+
+- The programs that was used for the analysis is present in project1_veronica/Programs_your_hypo
+- The data that was used for the analysis is present in project1_veronica/Data_your_hypo
+
 
 ## Hypothesis 2 - Covid 19 case count vs Social Distancing by Sai Reddy
 
